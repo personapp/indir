@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/indir/static/css/main.c9b3366d.chunk.css",
+    "main.js": "/indir/static/js/main.7a488478.chunk.js",
+    "main.js.map": "/indir/static/js/main.7a488478.chunk.js.map",
+    "runtime-main.js": "/indir/static/js/runtime-main.4137a075.js",
+    "runtime-main.js.map": "/indir/static/js/runtime-main.4137a075.js.map",
+    "static/js/2.59cca4de.chunk.js": "/indir/static/js/2.59cca4de.chunk.js",
+    "static/js/2.59cca4de.chunk.js.map": "/indir/static/js/2.59cca4de.chunk.js.map",
+    "index.html": "/indir/index.html",
+    "static/css/main.c9b3366d.chunk.css.map": "/indir/static/css/main.c9b3366d.chunk.css.map",
+    "static/js/2.59cca4de.chunk.js.LICENSE.txt": "/indir/static/js/2.59cca4de.chunk.js.LICENSE.txt",
+    "static/media/app-store-badge.8be97741.svg": "/indir/static/media/app-store-badge.8be97741.svg",
+    "static/media/google-play-badge.d112b8d6.png": "/indir/static/media/google-play-badge.d112b8d6.png",
+    "static/media/icon.27ef8c80.png": "/indir/static/media/icon.27ef8c80.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4137a075.js",
+    "static/js/2.59cca4de.chunk.js",
+    "static/css/main.c9b3366d.chunk.css",
+    "static/js/main.7a488478.chunk.js"
+  ]
+}
